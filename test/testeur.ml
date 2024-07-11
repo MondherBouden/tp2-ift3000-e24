@@ -776,7 +776,7 @@ Vancouver -> Bogota : cout en dollars = 1523.61 , duree du vol = 9.29
 Vancouver -> Tokyo : cout en dollars = 1276.42 , duree du vol = 8.65
 Vancouver -> Toronto : cout en dollars = 621.46 , duree du vol = 3.87
 
-Liste de successeurs de la ville de Montreal: Bruxelles, Detroit, New_York, Ottawa, Paris, Quebec, Toronto, VancouverIl existe un chemin entre Paris et Bogota
+Liste de successeurs de la ville de Montreal: Bruxelles, Detroit, New_York, Ottawa, Paris, Quebec, Toronto, Vancouver
 Il existe un chemin entre Paris et Bogota
 Il n'existe pas un chemin entre Vancouver et Bujumbura
 Plus court chemin entre Quebec et Bujumbura: Quebec, Montreal, Bruxelles, Bujumbura
